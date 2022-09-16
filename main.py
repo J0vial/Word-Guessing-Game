@@ -1,9 +1,3 @@
-
-def play(x):
-    if x=='yes':
-        guess()
-    
-    
 def guess():
     word = input('Enter the word you want as a game: ')
     word_list = [i for i in word] 

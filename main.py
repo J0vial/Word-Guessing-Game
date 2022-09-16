@@ -56,19 +56,5 @@ def guess():
                 break
             else:
                 print('Thanks for playing the game')
-                break
-           
-        
-            
-            
-            
-        
-        
-    
-    
+                break    
 guess()
-    
-    
-       
-
-
